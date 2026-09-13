@@ -17,3 +17,12 @@ img {
     width: 100%;
     height: auto;
 }
+
+a {
+    display: inline-block;
+    padding: 12px 24px;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+}
