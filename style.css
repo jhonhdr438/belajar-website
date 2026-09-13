@@ -52,6 +52,7 @@ a:hover {
 
 .banner {
     width: 100%;
+    max-width: 631px;
     height: auto;
     border-radius: 10px;
 }
