@@ -41,3 +41,11 @@ a {
 a:hover {
     background-color: gray;
 }
+
+.tombol-google {
+    background-color: black;
+}
+
+.tombol-github {
+    background-color: gray;
+}
